@@ -1,0 +1,21 @@
+
+{"pop_artists": ["Justin Bieber", "Madonna", "Gwen Stefani", "Ed Sheeran", "Britney Spears", 
+"Backstreet Boys", "Little Mix", "One Direction", "NSync", "Lady Gaga", "Harry Styles", 
+"Michael Jackson", "Take That", "Miley Cyrus", "Mariah Carey", "Beyoncé", 
+"Jennifer Lopez", "Justin Timberlake", "Janet Jackson", "Taylor Swift",
+"Elton John", "Katy Perry", "Cher", "Whitney Houston", "Prince",
+"The Jackson 5", "Westlife", "The Beach Boys", "Tina Turner", "Spice Girls",
+"Celine Dion", "Selena Gomez", "Paula Abdul", "P!nk", "Bruno Mars", "Kelly Clarkson", "Adele",
+"Shakira", "Jonas Brothers", "Black Eyed Peas", "Bee Gees", "Usher", "Barbra Streisand",
+"Ariana Grande", "Sting", "Sheryl Crow", "New Kids on the Block", "Cyndi Lauper", "Phil Collins",
+"Fergie", "Amy Winehouse", "Abba", "Jessica Simpson", "Boy George", "Duran Duran", "George Michael", "Demi Lovato",
+"Maroon 5", "Blondie", "R. Kelly", "Avril Lavigne", "The Pussycat Dolls"],
+
+"first_time_error": [
+"Michael Jackson"],
+
+"boy_bands": ["Backstreet Boys"],
+
+"girl_bands": ["Little Mix", "Spice Girls", "Destiny's Child"],
+
+"country_artists":["Sheryl Crow", "Billy Ray Cyrus"]}
